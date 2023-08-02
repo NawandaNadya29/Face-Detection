@@ -1,2 +1,1 @@
-# Face-Detection
-Face Detection menggunakan Haarcascade
+# Face-and-Smile-Detection-Using-Haarcascade
